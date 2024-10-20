@@ -1,0 +1,9 @@
+db.sqlite3
+venv
+.idea
+media/accounts/profile/*.jpg
+media/accounts/profile/*.png
+media/accounts/profile/*.svg
+media/accounts/profile/*.jpeg
+__pycache__
+*/__pycache__/*
